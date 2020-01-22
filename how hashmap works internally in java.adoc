@@ -1,10 +1,4 @@
-https://java8net.blogspot.com/2020/01/how-hashmap-works-internally-in-java.html[`vnjsdkvnsdv`]
-
-
-
-[bhsdjhbvjhsd vsdv](https://java8net.blogspot.com/2020/01/how-hashmap-works-internally-in-java.html)
-
-include::https://java8net.blogspot.com/2020/01/how-hashmap-works-internally-in-java.html
+https://java8net.blogspot.com/2020/01/how-hashmap-works-internally-in-java.html[`How hashmap works internally in java`]
 
 
 
