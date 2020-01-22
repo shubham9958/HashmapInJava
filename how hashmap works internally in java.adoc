@@ -4,6 +4,8 @@ https://java8net.blogspot.com/2020/01/how-hashmap-works-internally-in-java.html[
 
 [bhsdjhbvjhsd vsdv](https://java8net.blogspot.com/2020/01/how-hashmap-works-internally-in-java.html)
 
+include::https://java8net.blogspot.com/2020/01/how-hashmap-works-internally-in-java.html
+
 
 
 
